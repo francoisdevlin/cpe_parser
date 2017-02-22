@@ -1,0 +1,5 @@
+This is a tool to convert the CPE course list to EST, and filter the data to only courses that match the nights & weekends criteria
+
+The course info came from this webpage:
+
+    http://www.cpeonline.com/search/location
